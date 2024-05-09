@@ -1,16 +1,15 @@
-### Hi there 👋
+# Olá, me chamo André Bessas ! 
+## Bem vindo ao meu perfil GitHub 👋
 
-<!--
-**bessasandre/bessasandre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente estou trabalhando como consultor técnico de equipamentos Volvo.
+- 🌱 Atualmente estou aprendendo JavaScript e Python.
+- 👯 Estou procurando colaborar em qualquer projeto que precise de um iniciante.
+- 📫 Como entrar em contato comigo: https://www.linkedin.com/in/andrebessas/
+- ⚡ Curiosidade: Sou graduado em Engenharia Metalúrgica pela UEMG e pós graduado em Automação e controle de processos pela UFV.
 
-Here are some ideas to get you started:
+## Estou aprendendo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+
+<div class="tenor-gif-embed" data-postid="26388528" data-share-method="host" data-aspect-ratio="1.21212" data-width="100%"><a href="https://tenor.com/view/the-office-gif-26388528">The Office GIF</a>from <a href="https://tenor.com/search/the-gifs">The GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
