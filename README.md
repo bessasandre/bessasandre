@@ -9,7 +9,6 @@
 
 ## Estou aprendendo
 
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /><i class="devicon-python-plain"></i>
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
-<div class="tenor-gif-embed" data-postid="26388528" data-share-method="host" data-aspect-ratio="1.21212" data-width="100%"><a href="https://tenor.com/view/the-office-gif-26388528">The Office GIF</a>from <a href="https://tenor.com/search/the-gifs">The GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
